@@ -26,3 +26,17 @@ $$w_t =
 Dependant on inequality short and long postions are opened on the stocks when price exeeds thresholds. postions are then unwinded after time T given by 
 $$T = \frac{t^*(c)}{\theta} $$
 typically c is set to the mean of lookback window.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ hello
