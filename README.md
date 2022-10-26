@@ -13,6 +13,7 @@ where $$\tilde{\sigma}^2 = \sigma^2\frac{1-e^{-2\mu\Delta t}}{\mu} $$
 3.&emsp;from standardised OU-process 
 $$dZ(t) = -Z(t) - \sqrt{2}dW(t)$$
 &emsp;The time the process is most likely to returnto value c is found by maximising prob densityfunction:
+
 $$f_{o,c}^{t} = \sqrt{\frac{2}{\pi}}\frac{|c|e^{-t}}{(1-e^{-2t})^{\frac{3}{2}}}exp\left(\frac{-c^2e^{-2t}}{2(1-e^{-2t})}\right)$$
 $$t^*(c) = \frac{1}{2}ln\left(1+0.5\sqrt{(c^2-3)^2+4c^2}+c^2-3\right)$$
 trading signal w_t is given 
